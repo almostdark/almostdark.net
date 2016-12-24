@@ -12,3 +12,5 @@
 ## Welcome to AlmostDark.net
 
 content to come soon...
+
+[File an issue](https://github.com/almostdark/almostdark/issues/new)
